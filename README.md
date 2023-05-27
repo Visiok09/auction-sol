@@ -19,3 +19,8 @@ This contract ensures that the starting price is greater than or equal to the pr
 Note: The contract includes a `withdraw` function that allows the contract owner to withdraw funds.
 
 This contract is built using Solidity and demonstrates the implementation of an auction engine with basic functionalities.
+
+## Testing
+
+```
+yarn hardhat test
